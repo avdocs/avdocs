@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Willkommen bei AvDocs
 
-You can use the [editor on GitHub](https://github.com/avdocs/avdocs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Servus und Willkommen, wir freuen uns, dass du dich auf unsere kleine Seite verirrt hast. Wir bieten Luftfahrtenthusiast*innen diverser Communities – überwiegend das virtuelle Flugsimulationsnetzwerk IVAO – hilfreiche Dokumente und Hilfestellungen, um den Alltag im komplexen Thema „virtuelle Luftafahrt“ zu vereinfachen.
 
 ### Markdown
 
